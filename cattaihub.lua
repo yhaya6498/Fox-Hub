@@ -1,8 +1,9 @@
+-- Fox ToP Hub - by ity45
 -- ts file was generated at Soon
 
 
 repeat
-    wait(Fox Hub By ity45)
+    wait()
 until game:IsLoaded()
 if game.PlaceId ~= 2753915549 then
     if game.PlaceId ~= 4442272183 then
