@@ -3,8 +3,8 @@
 
 local vu1 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local v2 = vu1:CreateWindow({
-    ["Title"] = "Banana Cat Hub-Blox Fruit [ Premium ]",
-    ["SubTitle"] = "By Obii",
+    ["Title"] = "Fox Hub-Blox Fruit [ Premium ]",
+    ["SubTitle"] = "By ity45 Discord",
     ["TabWidth"] = 160,
     ["Theme"] = "Dark",
     ["Acrylic"] = false,
