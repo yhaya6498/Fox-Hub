@@ -1,8 +1,8 @@
--- ts file was generated at discord.gg/25ms
+-- ts file was generated at Soon
 
 
 repeat
-    wait()
+    wait(Fox Hub By ity45)
 until game:IsLoaded()
 if game.PlaceId ~= 2753915549 then
     if game.PlaceId ~= 4442272183 then
